@@ -70,15 +70,15 @@ Simulations model:
 ## Visualizations and Results
 
 1. **Kepler’s First Law – Elliptical Orbits**  
-(results/kepler1.png)
+![Kepler's First Law](results/kepler1.png)
 Demonstrates an elliptical orbit with the Sun at one focus.
 
 2. **Kepler’s Second Law – Equal Areas**  
-(results/kepler2.png)
+![Kepler'S Second Law](results/kepler2.png)
 Shows equal areas swept over equal time intervals along an orbit.
 
-3. **Kepler’s Third Law – Law of Periods**  
-(results/kepler3.png)
+3. **Kepler’s Third Law – Law of Periods**
+![Kepler's Third Law](results/kepler3.png)
 Graph showing the relationship between orbital period squared (T²) and semi-major axis cubed (r³).
 
 ## Key Insights
