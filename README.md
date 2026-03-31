@@ -18,11 +18,7 @@ By combining analytical concepts with Python-based visualizations, the project d
 
 ### Newton’s Law of Universal Gravitation
 
-Every object with mass exerts an attractive force on every other object:
-
-\[
-F = G \frac{m_1 m_2}{r^2}
-\]
+Every object with mass exerts an attractive force on every other object.
 
 - Force is directly proportional to the product of masses  
 - Force is inversely proportional to the square of the distance  
@@ -45,11 +41,7 @@ This arises from the conservation of angular momentum.
 
 ### Kepler’s Third Law – Law of Periods
 
-The square of a planet’s orbital period is proportional to the cube of the semi-major axis of its orbit:
-
-\[
-T^2 \propto r^3
-\]
+The square of a planet’s orbital period is proportional to the cube of the semi-major axis of its orbit.
 
 - Farther planets take longer to complete an orbit  
 - Used to calculate orbital periods of planets, moons, and satellites
